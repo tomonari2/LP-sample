@@ -1,0 +1,22 @@
+*{
+    box-sizing:border-box;
+}
+
+@media(max-width:1000px){
+    .relative2{
+        width:100%
+    }
+    .relative2 img{
+        width:100%;
+    }
+    .header-left h1{
+        font-size:15px;
+    }
+    .header-left a,.header-right{
+        display:none;
+    }
+    .slides h1{
+        font-size:20px;
+    }
+    
+}
